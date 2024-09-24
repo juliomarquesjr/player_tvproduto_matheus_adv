@@ -1,4 +1,4 @@
-# Player Matheus Adivogado
+# Player Matheus Advogado
 
 Player desenvolvido para a agência TV Produto
 

@@ -22,7 +22,7 @@ var player = new Clappr.Player({
     contentType: "video/mp4",
     media: {
       type: ChromecastPlugin.Movie,
-      title: "Matheus Adivogado",
+      title: "Matheus Advogado",
       subtitle: "Assista a nossa programação ao vivo",
     },
   },
