@@ -15,7 +15,7 @@ var player = new Clappr.Player({
   height: "100%",
   mediacontrol: { seekbar: "#F8F8FF", buttons: "#FFFAFA" },
   customData: {
-    licenseURL: "https://bazarkioto.com.br/",
+    licenseURL: "http://www.matheuszilli.adv.br",
   },
   chromecast: {
     appId: "9DFB77C0",
